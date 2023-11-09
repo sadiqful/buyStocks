@@ -23,7 +23,9 @@ To get started, you will need to install the following dependencies:
 Once you have installed the dependencies, you can clone the repository and install the project dependencies:
 
 ```git clone https://github.com/sadiqful/buyStocks.git
-cd buyStocks
+```
+
+```cd buyStocks
 npm install
 ```
 
