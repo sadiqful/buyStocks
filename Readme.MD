@@ -24,8 +24,8 @@ Once you have installed the dependencies, you can clone the repository and insta
 
 ```git clone https://github.com/sadiqful/buyStocks.git ```
 
-```cd buyStocks
-   npm install```
+- cd buyStocks
+- npm install
 
 To start the server, run the following command:
 
