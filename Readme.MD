@@ -22,12 +22,10 @@ To get started, you will need to install the following dependencies:
 
 Once you have installed the dependencies, you can clone the repository and install the project dependencies:
 
-```git clone https://github.com/sadiqful/buyStocks.git
-```
+```git clone https://github.com/sadiqful/buyStocks.git ```
 
 ```cd buyStocks
-npm install
-```
+   npm install```
 
 To start the server, run the following command:
 
